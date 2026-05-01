@@ -94,6 +94,11 @@ Versión inicial funcional, completamente desplegada y navegable. Posibles próx
 - Optimizar SEO con metaetiquetas, Open Graph y sitemap.
 - Validación del formulario de contacto con JavaScript.
 
+## Bases de Datos (No vinculada)
+
+- Ubicación Analisis técnico y diagramas enÑ docs/bases_de_datos
+- Scripts utilizados para la creación de tablas, inserción de datos y consultas ubicados en /sql
+
 ## Contacto
 
 **Richard Suarez** — Estudiante de 1.º DAW
