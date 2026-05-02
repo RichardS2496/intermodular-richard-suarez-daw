@@ -79,7 +79,7 @@ No requiere servidor ni instalación de dependencias. Pasos:
 
 1. Clona o descarga el repositorio:
    ```bash
-   git clone https://github.com/RichardS2496/0373-Lenguajes_de_marcas.git
+   git clone https://github.com/RichardS2496/intermodular-richard-suarez-daw.git
    ```
 2. Abre el archivo `index.html` con tu navegador (doble clic o arrastrar al navegador).
 3. Navega entre las páginas a través del menú principal.
