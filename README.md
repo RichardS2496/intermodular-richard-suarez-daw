@@ -94,10 +94,21 @@ Versión inicial funcional, completamente desplegada y navegable. Posibles próx
 - Optimizar SEO con metaetiquetas, Open Graph y sitemap.
 - Validación del formulario de contacto con JavaScript.
 
-## Bases de Datos (No vinculada)
+## Bases de Datos (VINCULADA AL PROYECTO JAVA)
 
-- Ubicación Analisis técnico y diagramas enÑ docs/bases_de_datos
-- Scripts utilizados para la creación de tablas, inserción de datos y consultas ubicados en /sql
+Para información de Ubicación Analisis técnico y diagramas en **docs/bases_de_datos** y Scripts utilizados para la creación de tablas, inserción de datos y consultas ubicados en **/sql**
+
+Para ver el funcionamiento con el proyecto de JAVA, ir al repositorio que se muestra a continuación:
+
+https://github.com/RichardS2496/0485-Programacion.git
+
+Configuración de la conexión
+
+  - Motor: MariaDB
+  - Host: localhost
+  - Puerto: 3308
+  - Base de datos: shieldsecurity
+
 
 ## Contacto
 
